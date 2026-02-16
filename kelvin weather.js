@@ -1,4 +1,4 @@
-/forecast for today in kelvin
+//forecast for today in kelvin
 const kelvin = 0; 
 //forecast in Celsius
 let celsius = kelvin - 273; 
